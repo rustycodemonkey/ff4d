@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/home/philk/.virtualenvs/dropbox/bin/python
 # Copyright (c) 2014-2018 Sascha Schmidt <sascha@schmidt.ps>
 # https://schmidt.ps
 #
